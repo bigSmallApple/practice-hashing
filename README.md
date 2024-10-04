@@ -1,7 +1,7 @@
-#Hashing Project
+# Hashing Project
 This project demonstrates various hashing techniques implemented in Java. The project includes implementations of different hash tables, such as linear probing, quadratic probing, double hashing, and more. The goal of this project is to explore different collision resolution strategies in hash tables, compare their performance, and highlight their unique characteristics.
 
-#Project Structure
+# Project Structure
 DoubleHashTable.java: Implements a hash table that uses double hashing for collision resolution.
 LinearHashTable.java: Implements a hash table using linear probing to handle collisions.
 QuadHashTable.java: Implements a hash table that resolves collisions using quadratic probing.
@@ -15,7 +15,7 @@ Machine Simulation: Manages and runs the hashing operations, providing a structu
 Getting Started
 Clone the repository and compile the Java files to get started with exploring different hashing techniques.
 
-#bash
+# bash
 Copy code
 git clone https://github.com/yourusername/hashing-project.git
 cd hashing-project
